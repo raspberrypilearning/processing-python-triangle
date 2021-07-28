@@ -12,3 +12,4 @@ filename: main.py
 
 The triangle will be drawn with a corner at each of the three coordinates given by (x1, y1), (x2, y2), (x3, y3).
 
+![The output area showing a triangle with corners at the coordinates from the code.](images/example.png)
