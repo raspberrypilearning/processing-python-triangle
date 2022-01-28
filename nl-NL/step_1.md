@@ -1,6 +1,6 @@
-Draw a triangle using: `triangle(x1, y1, x2, y2, x3, y3)`
+Teken een driehoek met: `triangle(x1, y1, x2, y2, x3, y3)`
 
-The triangle will be drawn using the stroke and fill values that have been set before `triangle` is called.
+De driehoek wordt getekend met behulp van de lijn- en vulwaarden die zijn ingesteld voordat `triangle` wordt aangeroepen.
 
 --- code ---
 ---
@@ -12,6 +12,6 @@ filename: main.py
 
 --- /code ---
 
-The triangle will be drawn with a corner at each of the three coordinates given by (x1, y1), (x2, y2), (x3, y3).
+De driehoek wordt getekend met een hoek op elk van de drie coördinaten gegeven door (x1, y1), (x2, y2), (x3, y3).
 
-![The output area showing a triangle with corners at the coordinates from the code.](images/example.png)
+![Het uitvoergebied toont een driehoek met hoeken op de coördinaten uit de code.](images/example.png)
