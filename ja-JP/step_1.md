@@ -1,6 +1,6 @@
-Draw a triangle using: `triangle(x1, y1, x2, y2, x3, y3)`
+次のように三角形を描きます。`triangle(x1, y1, x2, y2, x3, y3)`
 
-The triangle will be drawn using the stroke and fill values that have been set before `triangle` is called.
+`triangle`が呼び出される前に設定されていた輪郭線と塗りつぶしの値を使って三角形が描かれます。
 
 --- code ---
 ---
@@ -12,6 +12,6 @@ filename: main.py
 
 --- /code ---
 
-The triangle will be drawn with a corner at each of the three coordinates given by (x1, y1), (x2, y2), (x3, y3).
+三角形は、(x1, y1)、(x2, y2)、(x3, y3)で与えられる3つの座標を頂点として描かれます。
 
-![The output area showing a triangle with corners at the coordinates from the code.](images/example.png)
+![コードからの座標を頂点とする三角形を示す出力領域。](images/example.png)
