@@ -1,6 +1,6 @@
-Draw a triangle using: `triangle(x1, y1, x2, y2, x3, y3)`
+ارسم مثلثًا باستخدام: `triangle(x1, y1, x2, y2, x3, y3)`
 
-The triangle will be drawn using the stroke and fill values that have been set before `triangle` is called.
+سيتم رسم المثلث باستخدام حركة سريعة والتعبئة التي تم تعيينها قبل استدعاء `triangle`.
 
 --- code ---
 ---
@@ -12,6 +12,6 @@ filename: main.py
 
 --- /code ---
 
-The triangle will be drawn with a corner at each of the three coordinates given by (x1, y1), (x2, y2), (x3, y3).
+سيتم رسم المثلث بزاوية عند كل من الإحداثيات الثلاثة المعطاة بـ (x1، y1)، (x2، y2)، (x3، y3).
 
-![The output area showing a triangle with corners at the coordinates from the code.](images/example.png)
+![تُظهر منطقة التنفيذ مثلثًا به زوايا عند إحداثيات الشفرة البرمجية.](images/example.png)
