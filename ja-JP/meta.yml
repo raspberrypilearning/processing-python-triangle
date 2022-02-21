@@ -1,11 +1,11 @@
 ---
-title: Draw a triangle
+title: 三角形を描く
 hero_image: images/banner.png
-description: Draw a triangle in processing with Python
+description: PythonのProcessingで三角形を描く
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-07-22"
 steps:
   - 
-    title: Introduction
+    title: はじめに
