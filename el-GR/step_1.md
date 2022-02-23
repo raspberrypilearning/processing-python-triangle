@@ -1,6 +1,6 @@
-Draw a triangle using: `triangle(x1, y1, x2, y2, x3, y3)`
+Σχεδίασε ένα τρίγωνο χρησιμοποιώντας: `triangle(x1, y1, x2, y2, x3, y3)`
 
-The triangle will be drawn using the stroke and fill values that have been set before `triangle` is called.
+Το τρίγωνο θα σχεδιαστεί χρησιμοποιώντας τις τιμές για το περίγραμμα πινελιά και το γέμισμα που έχουν οριστεί πριν καλέσεις το `triangle`.
 
 --- code ---
 ---
@@ -12,6 +12,6 @@ filename: main.py
 
 --- /code ---
 
-The triangle will be drawn with a corner at each of the three coordinates given by (x1, y1), (x2, y2), (x3, y3).
+Το τρίγωνο θα σχεδιαστεί με μια κορυφή σε καθεμία από τις τρεις συντεταγμένες που δίνονται από τα (x1, y1), (x2, y2), (x3, y3).
 
-![The output area showing a triangle with corners at the coordinates from the code.](images/example.png)
+![Η περιοχή που προκύπτει δείχνει ένα τρίγωνο με κορυφές στις συντεταγμένες από τον κώδικα.](images/example.png)
