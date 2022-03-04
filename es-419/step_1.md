@@ -1,6 +1,6 @@
 Dibuja un triángulo usando: `triangle(x1, y1, x2, y2, x3, y3)`
 
-The triangle will be drawn using the stroke and fill values that have been set before `triangle` is called.
+El triángulo se dibujará utilizando los valores de stroke (trazo) y fill (relleno) que se han establecido antes de llamar a `triangle`.
 
 --- code ---
 ---
