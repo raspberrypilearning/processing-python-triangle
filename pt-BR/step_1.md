@@ -1,6 +1,6 @@
-Draw a triangle using: `triangle(x1, y1, x2, y2, x3, y3)`
+Desenhe um triângulo usando: `triangle(x1, y1, x2, y2, x3, y3)`
 
-The triangle will be drawn using the stroke and fill values that have been set before `triangle` is called.
+O triângulo será desenhado usando os valores de contorno e preenchimento que foram definidos antes de `triângulo` ser chamado.
 
 --- code ---
 ---
@@ -12,6 +12,6 @@ filename: main.py
 
 --- /code ---
 
-The triangle will be drawn with a corner at each of the three coordinates given by (x1, y1), (x2, y2), (x3, y3).
+O triângulo será desenhado com um canto em cada uma das três coordenadas dadas por (x1, y1), (x2, y2), (x3, y3).
 
-![The output area showing a triangle with corners at the coordinates from the code.](images/example.png)
+![Área com o resultado do triângulo com cantos nas coordenadas do código.](images/example.png)
