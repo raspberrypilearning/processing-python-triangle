@@ -1,6 +1,6 @@
-Draw a triangle using: `triangle(x1, y1, x2, y2, x3, y3)`
+Lluniwch driongl gan ddefnyddio: `triangle(x1, y1, x2, y2, x3, y3)`
 
-The triangle will be drawn using the stroke and fill values that have been set before `triangle` is called.
+Bydd y triongl yn cael ei lunio gan ddefnyddio'r gwerthoedd strôc a llenwi sydd wedi'u gosod cyn galw `triangle`.
 
 --- code ---
 ---
@@ -12,6 +12,6 @@ filename: main.py
 
 --- /code ---
 
-The triangle will be drawn with a corner at each of the three coordinates given by (x1, y1), (x2, y2), (x3, y3).
+Bydd y triongl yn cael ei lunio gyda chornel ym mhob un o'r tri chyfesuryn sy'n cael eu rhoi gan (x1, y1), (x2, y2), (x3, y3).
 
-![The output area showing a triangle with corners at the coordinates from the code.](images/example.png)
+![Yr ardal allbwn yn dangos triongl gyda chorneli yn y cyfesurynnau o'r cod.](images/example.png)
