@@ -8,7 +8,7 @@ language: python
 filename: main.py
 ---
 
-  triangle(210, 250, 330, 150, 220, 160) # (x1, y1), (x2, y2), (x3, y3)
+    triangle(210, 250, 330, 150, 220, 160)  # (x1, y1), (x2, y2), (x3, y3)
   
 --- /code ---
 
