@@ -1,11 +1,11 @@
 ---
-title: Draw a triangle
+title: Narysuj trójkąt
 hero_image: images/banner.png
-description: Draw a triangle in processing with Python
+description: Narysuj trójkąt za pomocą przetwarzania w Pythonie
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-07-22"
 steps:
   - 
-    title: Introduction
+    title: Wprowadzenie
