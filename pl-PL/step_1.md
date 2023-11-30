@@ -12,6 +12,6 @@ filename: main.py
 
 --- /code ---
 
-The triangle will be drawn with a corner at each of the three coordinates given by (x1, y1), (x2, y2), (x3, y3).
+Trójkąt zostanie narysowany tak, że każdy z jego wierzchołków będzie określony przez współrzędne (x1, y1), (x2, y2), (x3, y3).
 
-![The output area showing a triangle with corners at the coordinates from the code.](images/example.png)
+![Obszar wyjściowy pokazujący trójkąt z wierzchołkami umiejscowionymi na podstawie współrzędnych z kodu.](images/example.png)
