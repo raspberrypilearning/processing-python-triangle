@@ -8,10 +8,10 @@ language: python
 filename: main.py
 ---
 
-  triangle(210, 250, 330, 150, 220, 160) # (x1, y1), (x2, y2), (x3, y3)
+    triangle(210, 250, 330, 150, 220, 160)  # (x1, y1), (x2, y2), (x3, y3)
 
 --- /code ---
 
-三角形は、(x1, y1)、(x2, y2)、(x3, y3)で与えられる3つの座標を頂点として描かれます。
+The triangle will be drawn with a corner at each of the three coordinates given by (x1, y1), (x2, y2), (x3, y3).
 
-![コードからの座標を頂点とする三角形を示す出力領域。](images/example.png)
+![The output area showing a triangle with corners at the coordinates from the code.](images/example.png)
