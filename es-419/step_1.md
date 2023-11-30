@@ -1,4 +1,4 @@
-Dibuja un triángulo usando: `triangle(x1, y1, x2, y2, x3, y3)`
+Dibuja un triángulo usando: `triángulo(x1, y1, x2, y2, x3, y3)`
 
 El triángulo se dibujará utilizando los valores de stroke (trazo) y fill (relleno) que se han establecido antes de llamar a `triangle`.
 
@@ -8,10 +8,10 @@ language: python
 filename: main.py
 ---
 
-  triangle(210, 250, 330, 150, 220, 160) # (x1, y1), (x2, y2), (x3, y3)
+    triangle(210, 250, 330, 150, 220, 160)  # (x1, y1), (x2, y2), (x3, y3)
 
 --- /code ---
 
-El triángulo se dibujará con una esquina en cada una de las tres coordenadas dadas por (x1, y1), (x2, y2), (x3, y3).
+The triangle will be drawn with a corner at each of the three coordinates given by (x1, y1), (x2, y2), (x3, y3).
 
-![El área de salida que muestra un triángulo con esquinas en las coordenadas del programa.](images/example.png)
+![The output area showing a triangle with corners at the coordinates from the code.](images/example.png)
