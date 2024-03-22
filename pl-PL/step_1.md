@@ -1,6 +1,6 @@
 Narysuj trójkąt używając polecenia: `triangle(x1, y1, x2, y2, x3, y3)`
 
-Trójkąt zostanie narysowany przy użyciu wartości wypełnienia i obrysu ustawionych przed wywołaniem polecenia`triangle`.
+Trójkąt zostanie narysowany przy użyciu wartości wypełnienia i obrysu ustawionych przed wywołaniem polecenia `triangle`.
 
 --- code ---
 ---
